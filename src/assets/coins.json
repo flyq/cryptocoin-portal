@@ -1,0 +1,26 @@
+[
+    {
+        "name": "比特币",
+        "logourl": "../../static/pic/白皮书图.png"
+    }
+    ,
+    {
+        "name": "以太币",
+        "logourl": "../../static/pic/白皮书图.png"
+    }
+    ,
+    {
+        "name": "莱特币",
+        "logourl": "../../static/pic/白皮书图.png"
+    }
+    ,
+    {
+        "name": "柚子币",
+        "logourl": "../../static/pic/白皮书图.png"
+    }
+    ,
+    {
+        "name": "币安币",
+        "logourl": "../../static/pic/白皮书图.png"
+    }
+]
